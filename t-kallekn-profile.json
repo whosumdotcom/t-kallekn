@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T07:48:32Z",
+  "IdClaims": [
+    {
+      "Claim": "t:kallekn"
+    },
+    {
+      "Claim": "mdon:@kallekn@mastodonsweden.se"
+    },
+    {
+      "Claim": "gh:kallekn"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ec5af2dbd0f6cf761a2edcb8",
+    "Timestamp": "2023-04-06T07:56:17Z",
+    "Signature": "2f0c67193d707264271c5262a12d268754e73e47dc783df573b7ed7031b77df148b085aada153cf1b667664ba76ee056810c2403270f526441f7eaa36184bc8b5c507e28a3e9fb4b4ef47d954e4b2f0c8515da7e150dbdad78bdc83428f1c3cb508c8222da60a2f66e92f20195f67de2e144d5639acce44e709bc9451f7f77026f8ae973bd0768a799f5d600362d0823be000c0403ff3273da71ddb8c329e9dd9f6418d02a241d948f98183afcc655405dde913475c8e6fc8eda65dc32328534fb97ae8d64c63d3250a6cec4f26079d781bb43577d22c33fef96f36e9b2ce77bc4e36d297acdc38a47323694cc1335b52016b4699375fb835a10408bcf164aa3"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "fb18c34b7397d1e72ef9f5b788dcc14ed5ebd252ce5237a828b08d6066f398ae",
+  "ContentToHash": "v1|gh:kallekn,mdon:@kallekn@mastodonsweden.se,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:kallekn|2023-04-06T07:48:32Z"
+}
